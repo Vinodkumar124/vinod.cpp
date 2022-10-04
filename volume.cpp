@@ -11,7 +11,7 @@ int main()
 	cout<<"enter height \n";
 	cin>>height;
 	volume=3.14 * radius * radius *height;
-	cout<<"cylender voume is= "<<volume;
+	cout<<"cylender voume is= "<<volume;3
 	
 	
 }
